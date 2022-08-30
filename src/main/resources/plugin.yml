@@ -1,0 +1,4 @@
+name: MCplugFirst
+version: '${project.version}'
+main: com.firstproj.mcplugfirst.MCplugFirst
+api-version: 1.19
