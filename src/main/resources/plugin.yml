@@ -2,3 +2,8 @@ name: MCplugFirst
 version: '${project.version}'
 main: com.firstproj.mcplugfirst.MCplugFirst
 api-version: 1.19
+commands:
+  setHealth:
+    description: sets health to your selected player
+    aliases: h
+    usage: /setHealth
